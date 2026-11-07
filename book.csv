@@ -1,2 +1,101 @@
-title,original_price,years,condition,resale_price
-50,5,good,25
+title	original_price	years	condition	resale_price
+Atomic Habits	21	2	like_new	15
+The Catch-22	14	5	good	6.5
+The Lord of the Rings	35	3	like_new	24
+Thinking, Fast and Slow	19.5	12	like_new	9.5
+The Kite Runner	16.5	7	like_new	10
+To Kill a Mockingbird	15	2	good	8
+The Lord of the Rings	35	9	like_new	19
+The Little Prince	10	4	poor	2
+The Lord of the Rings	35	8	acceptable	9.5
+To Kill a Mockingbird	15	13	good	5
+Dune	24	7	acceptable	6.5
+Animal Farm	11	3	good	5.5
+Dracula	12	6	like_new	7.5
+The Great Gatsby	10	7	like_new	6
+Brave New World	13.5	14	acceptable	2.5
+Sapiens: A Brief History of Humankind	22	5	like_new	14
+The Catch-22	14	8	like_new	8
+The Book Thief	16	2	acceptable	5.5
+Atomic Habits	21	10	acceptable	5
+The Kite Runner	16.5	4	like_new	11
+1984	12	11	good	4.5
+Dracula	12	5	like_new	7.5
+The Lord of the Rings	35	14	like_new	15
+The Book Thief	16	5	poor	2.5
+Atomic Habits	21	14	acceptable	4.5
+The Hobbit	18	6	acceptable	5
+Harry Potter and the Philosopher's Stone	20	11	acceptable	4.5
+Dune	24	15	like_new	10
+Sapiens: A Brief History of Humankind	22	11	good	8
+The Little Prince	10	12	good	3.5
+The Hobbit	18	8	poor	2.5
+Animal Farm	11	15	good	3.5
+Thinking, Fast and Slow	19.5	6	like_new	12
+The Lord of the Rings	35	14	like_new	15
+Jane Eyre	14.5	7	acceptable	4
+The Great Gatsby	10	4	acceptable	3
+Harry Potter and the Philosopher's Stone	20	11	poor	2.5
+The Book Thief	16	15	poor	2
+The Catcher in the Rye	13	5	good	6
+The Lord of the Rings	35	12	acceptable	8
+The Catch-22	14	10	poor	2
+The Kite Runner	16.5	7	acceptable	4.5
+The Lord of the Rings	35	3	poor	6.5
+The Great Gatsby	10	13	like_new	4.5
+Pride and Prejudice	14	3	good	7
+Thinking, Fast and Slow	19.5	7	like_new	11.5
+The Book Thief	16	7	poor	2.5
+One Hundred Years of Solitude	18.5	5	like_new	12
+Thinking, Fast and Slow	19.5	12	like_new	9.5
+Thinking, Fast and Slow	19.5	15	acceptable	4
+Dracula	12	11	acceptable	3
+Pride and Prejudice	14	5	poor	2.5
+The Hobbit	18	8	like_new	10.5
+The Catch-22	14	15	acceptable	2.5
+One Hundred Years of Solitude	18.5	13	good	6
+One Hundred Years of Solitude	18.5	15	like_new	7.5
+Atomic Habits	21	5	good	10
+The Catcher in the Rye	13	6	good	6
+The Little Prince	10	13	like_new	4.5
+Sapiens: A Brief History of Humankind	22	6	poor	3.5
+To Kill a Mockingbird	15	2	acceptable	5
+Fahrenheit 451	12.5	4	like_new	8
+The Lord of the Rings	35	15	like_new	14.5
+The Great Gatsby	10	12	poor	1.5
+The Great Gatsby	10	13	good	3.5
+The Catcher in the Rye	13	11	poor	1.5
+The Little Prince	10	3	acceptable	3
+One Hundred Years of Solitude	18.5	14	poor	2
+Harry Potter and the Philosopher's Stone	20	15	good	6
+Dune	24	5	poor	4
+Thinking, Fast and Slow	19.5	11	acceptable	4.5
+Crime and Punishment	17	15	poor	2
+Pride and Prejudice	14	4	good	7
+The Great Gatsby	10	6	like_new	6
+The Kite Runner	16.5	9	good	6.5
+The Kite Runner	16.5	4	like_new	11
+The Great Gatsby	10	12	like_new	5
+The Lord of the Rings	35	2	like_new	24.5
+Jane Eyre	14.5	2	good	7.5
+Animal Farm	11	11	poor	1.5
+Harry Potter and the Philosopher's Stone	20	9	good	8
+The Catch-22	14	15	poor	1.5
+The Lord of the Rings	35	13	poor	4.5
+The Chronicles of Narnia	25	4	like_new	16.5
+Pride and Prejudice	14	11	poor	2
+Brave New World	13.5	7	poor	2
+Crime and Punishment	17	14	like_new	7.5
+Thinking, Fast and Slow	19.5	11	like_new	10
+1984	12	7	acceptable	3.5
+Pride and Prejudice	14	4	good	7
+Harry Potter and the Philosopher's Stone	20	9	poor	3
+The Catcher in the Rye	13	7	good	5.5
+Animal Farm	11	8	good	4.5
+The Great Gatsby	10	8	like_new	5.5
+1984	12	11	like_new	6
+The Great Gatsby	10	15	good	3
+The Hobbit	18	7	poor	3
+The Alchemist	15	4	poor	2.5
+1984	12	3	poor	2
+To Kill a Mockingbird	15	7	acceptable	4
